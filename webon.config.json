@@ -1,0 +1,1 @@
+{"port":"3000","oss":"qiniu","qiniu":{"accessKey":"xQrRKM14jlO50afZPn1oFMt6iPWmdaS7j-1HTzL1","secretKey":"DJT5hp66aICddZjmnLLAIx1jwofJuKmJQryGcExQ","bucket":"rails365","baseurl":"iduwez4.qiniudns.com"},"ignore":"*.log, *.log.json, *.config, *.config.json, .gitignore, README.md, .git*","whitelist":""}
